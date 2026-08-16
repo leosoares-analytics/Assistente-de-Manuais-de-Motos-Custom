@@ -21,7 +21,7 @@
 * **Python**
   
   * OS
-  * Langchainn
+  * Langchain
   * Tqdm
     
 * **LLM**
